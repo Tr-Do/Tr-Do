@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trieu Do</h1>
-<h3 align="center">A passionate frontend developeraa</h3>
+<h3 align="center">A Computer Science Student</h3>
 
 - 🔭 I’m currently working on a charity project **A website for an orphanage**
 
