@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trieu Do</h1>
 <h3 align="center">Undergraduate Computer Science Student</h3>
 
-- 🔭 I’m currently working on a charity project, awebsite for an orphanage
+- 🔭 I’m currently working on a charity project, a website for an orphanage
 
 - 🌱 I’m currently learning **AI, Deep Learning**
 
