@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a charity project, a website for an orphanage
 
-- 🌱 I’m currently learning **AI, Deep Learning**
+- 🌱 I’m diving into **AI and Deep Learning**
 
 - 👯 I’m looking to collaborate on **research and AI projects**
 
