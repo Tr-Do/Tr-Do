@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Trieu Do</h1>
-<h3 align="center">Undergraduate Computer Science Student</h3>
+<h3 align="center">Senior Computer Science Student</h3>
 
 - 🌱 I’m diving into **AI and Deep Learning**
 
