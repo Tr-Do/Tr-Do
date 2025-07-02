@@ -3,7 +3,7 @@
 
 ## 🔧 Current Focus
 - Preparing for backend SWE roles (Fall 2026 graduation)
-- Building production-grade systems with TypeScript, Python, and Go
+- Building production-grade systems with Javacript, Python, C++
 - Reinforcing system design, data structures, and OS internals
 
 ## 🧠 Active Projects
