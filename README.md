@@ -8,7 +8,7 @@
 
 ## 🧠 Active Projects
 - [campus-chatbot-ai](https://github.com/Tr-Do/chatbot): public-facing academic assistant for university students
-- [leet-code-grind](https://github.com/Tr-Do/leetcode_practice): 40+ categorized problems with annotated solutions
+- [leet-code-practice](https://github.com/Tr-Do/leetcode_practice): 40+ categorized problems with annotated solutions
 
 ## 📊 Tech Stack
 `Python` `Node.js` `Javascript` `HTML` `CSS`
