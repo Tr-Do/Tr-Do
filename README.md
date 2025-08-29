@@ -8,7 +8,7 @@
 ## 🧠 Active Projects
 - [Yelp-Camp](https://github.com/Tr-Do/Yelp-Camp): full-stack campground listing app with authentication, CRUD operations, and MongoDB integration
 - [campus-chatbot-ai](https://github.com/Tr-Do/chatbot): public-facing academic assistant for university students
-- [leet-code-practice](https://github.com/Tr-Do/leetcode_practice): 40+ categorized problems with annotated solutions
+- [leet-code-practice](https://github.com/Tr-Do/leetcode_practice): 70+ categorized problems with annotated solutions
 
 ## 📊 Tech Stack
 `Python` `Node.js` `JavaScript` `HTML` `CSS`
