@@ -13,17 +13,14 @@
 `Node.js` `Express`
 
 **Data Layer**
-`MongoDB` `Mongoose`
+`MongoDB`
 
 **Payments & Financial Integrations**
 `Stripe` `PayPal` `Coinbase Commerce`
-`Webhook Signature Verification`
-`Payment Reconciliation`
 
 **Cloud & Storage**
 `AWS S3`
 `Cloudinary CDN`
-`Railway Deployment`
 
 **DevOps & Reliability**
 `CI/CD Pipelines`
