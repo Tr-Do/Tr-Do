@@ -24,5 +24,4 @@
 
 **DevOps & Reliability**
 `CI/CD Pipelines`
-`Environment Management`
 `Zero-downtime Deployment`
