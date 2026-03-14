@@ -24,4 +24,3 @@
 
 **DevOps & Reliability**
 `CI/CD Pipelines`
-`Zero-downtime Deployment`
