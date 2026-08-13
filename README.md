@@ -1,26 +1,25 @@
-<h3 align="center">🔧 Backend SWE Track | Python & JS Systems | Fall 2026 Graduation</h3>
+<h3 align="center">🔧 Backend SWE | Python & Javascript | Fall 2026</h3>
 
 ## 🧠 Active Projects
-- [ecommer-website](https://github.com/Tr-Do/ecommerce): a small ecommerce website selling digital files
-- [leet-code-practice](https://github.com/Tr-Do/leetcode_practice): 90+ categorized problems with annotated solutions
+- [ecommerce-website](https://terrarium-studio.net): Full-stack ecommerce platform for digital products, handling end-to-end payment processing (Stripe, PayPal, Coinbase Commerce), cloud asset storage, and automated post-purchase delivery.
+- [leetcode-practice](https://github.com/Tr-Do/leetcode_practice): 100+ categorized LeetCode solutions in Python, organized by data structure and algorithm pattern with annotated explanations.
 
 ## 📊 Tech Stack
 
 **Languages**
-`Python` `JavaScript`
-
+`Python` `JavaScript` `C++`
+  
 **Backend Systems**
-`Node.js` `Express`
+`Node.js` `Express` `REST APIs`
 
 **Data Layer**
-`MongoDB`
+`MongoDB` `MySQL`
 
 **Payments & Financial Integrations**
 `Stripe` `PayPal` `Coinbase Commerce`
 
-**Cloud & Storage**
-`AWS S3`
-`Cloudinary CDN`
+**Cloud & Infrastructure**
+`AWS S3` `Cloudinary` `CI/CD`
 
-**DevOps & Reliability**
-`CI/CD Pipelines`
+**Frontend**
+`React` `Vite` `Tailwind CSS`
